@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranavsehrawat
 - 👀 I’m interested in Coding, software development, Cyber-security
-- 🌱 I’m currently learning C , C++ , Kali
+- 🌱 I’m currently learning Data Structures ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email me on pranav.coofficial@gmail.com
 
